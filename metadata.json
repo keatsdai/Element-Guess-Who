@@ -1,0 +1,5 @@
+{
+  "name": "Element Guess Who",
+  "description": "An interactive chemistry learning game where an AI helps you identify common elements through a 'Guess Who' style board.",
+  "requestFramePermissions": []
+}
